@@ -1,6 +1,7 @@
 # Poke2 Farm
 
-Please do not use this in the Poketwo discord server or any Poketwo servers.
+Please do not use this in the Poketwo discord server or any Poketwo servers.  
+The bot prefix is .
 
 # Features
 
