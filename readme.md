@@ -7,6 +7,7 @@ The bot prefix is .
 
 Auto Catcher  
 Catch pokemon of your choosing  
+Says pokemon name if you want it to
 
 
 # Setup
