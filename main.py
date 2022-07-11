@@ -165,8 +165,7 @@ async def say(ctx, *, args):
 @client.command(aliases=['p', 'pm'])
 async def pokemon(ctx, list):
 
-  await ctx.send("p!p " + str(list))
+  await ctx.send(config.poketwo_prefix + "p " + str(list))
 
 keep_alive()
-client.run(os.environ['token']
-,bot=False)
+client.run(TOKEN,bot=False)
