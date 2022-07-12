@@ -1,4 +1,4 @@
-# Poke2 Farm
+# PokeCatch
 
 Please do not use this in the Poketwo discord server or any Poketwo servers.  
 The bot prefix is .
