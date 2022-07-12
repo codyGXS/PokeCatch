@@ -1,3 +1,6 @@
+⚠️ | This bot will be updated later because it doesnt catch Nidoran♂/Nidoran♀
+:---: | :---
+
 # PokeCatch
 
 Please do not use this in the Poketwo discord server or any Poketwo servers.  
